@@ -1,6 +1,5 @@
 # SmartContract Lottery
-
-This is a repo to work with and create a truely random smart contract lottery in a python environment. If you're brand new to solidity, be sure to check out [FreeCodeCamp](https://www.freecodecamp.org/news/tag/solidity/). If you're new to brownie, check out the [Brownie](https://eth-brownie.readthedocs.io/en/stable/) documentation.  If you're brand new to Chainlink, check out the beginner walkthroughs in remix to [learn the basics.](https://docs.chain.link/docs/beginners-tutorial)
+This is a lottery smart contract created during the course of freeCodeCamp.
 
 - [SmartContract Lottery](#smartcontract-lottery)
   - [Prerequisites](#prerequisites)
